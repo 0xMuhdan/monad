@@ -102,7 +102,7 @@ NEXT_PUBLIC_MONAD_MAINNET_RPC=https://rpc.monad.xyz
 NEXT_PUBLIC_WALLET_CONNECT_PROJECT_ID=demo_project_id
 
 # Private Key untuk script deployment Foundry (Hanya untuk deploy, JANGAN COMMIT kunci asli)
-PRIVATE_KEY=0xac0974bec39a17e36ba4a6b4d238ff944bacb478cbed5efcae784d7bf4f2ff80
+PRIVATE_KEY=
 ```
 
 ### 4. Menjalankan Aplikasi
